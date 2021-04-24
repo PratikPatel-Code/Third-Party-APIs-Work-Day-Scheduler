@@ -18,7 +18,7 @@ Making a workday calander using third party APIs
 7. Events should still be present when page is refreshed
 
 #
-![Screenshot1](assets/images/screenshot1.png)
+![Screenshot1](./assets/images/screenshot1.png)
 #
 
 ## Conributers
